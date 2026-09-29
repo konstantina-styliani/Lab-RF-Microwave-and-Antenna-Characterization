@@ -54,7 +54,7 @@ Measurement of the main characteristics of a microwave transmission line (**wave
 The measurements included:
 
 - **Operating frequency**
-- **Guided wavelength (λg)**
+- **Guided wavelength (λ_{g})**
 - **Standing Wave Ratio (SWR)**
 - **Input impedance (Zin)**
 
