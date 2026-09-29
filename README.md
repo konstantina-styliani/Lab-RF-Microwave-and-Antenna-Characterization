@@ -38,7 +38,7 @@ The measurements were also used to determine the **dielectric constant of a mate
 
 A **slotted line** was used to measure the standing-wave pattern along the transmission line. By observing the variations of the signal using an **oscilloscope**, the wavelength and SWR could be determined, allowing further calculation of the **impedance** and **dielectric constant**.
 
-## **Skills & Equipment**
+## **Equipment & Topics**
 
 ### **Equipment**
 
