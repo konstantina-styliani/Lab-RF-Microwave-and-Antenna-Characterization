@@ -68,7 +68,7 @@ The SWR was also measured at different frequencies, including **8 GHz, 10 GHz, a
 
 ### **Guided Wavelength Measurement**
 
-The **guided wavelength (λg)** was determined from the distance between consecutive voltage minima along the waveguide.
+The **guided wavelength (λ_g)** was determined from the distance between consecutive voltage minima along the waveguide.
 
 A **short circuit** was used to locate and record the positions of the minima. The measured guided wavelength was then used to obtain another estimate of the operating frequency.
 
@@ -85,7 +85,7 @@ The **relative dielectric constant** of two material samples was determined by p
 Two configurations were measured:
 
 - **Material sample directly terminated by a short circuit**
-- **Material sample followed by a λg/4 section and a short circuit**
+- **Material sample followed by a λ_g/4 section and a short circuit**
 
 The impedance measurements from both configurations were combined to calculate the **relative dielectric constant** of the materials.
 
